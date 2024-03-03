@@ -1,3 +1,12 @@
+
+![EkranKayd2024-03-0400 50 16-ezgif com-video-to-gif-converter](https://github.com/1989zlm/Redux-Toolkit-Job-app/assets/146070651/602c9724-ac76-4be2-8647-b80d5d2137e2)
+
+#Screen gif.
+
+
+
+
+
 ## Redux Toolkit
 
 - Klasik redux'a göre daha az kod yazarak aynı sonucu elde edebiliyoruz.
